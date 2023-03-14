@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather',consolas,serif;
+}
+.coding{
+    border-radius:50%;
+    height:120px;
+    border: 30px solid #DDF7E3;
+    background-color:#DDF7E3;
+    margin:0px auto ;
+    text-align:left;
+    line-height: 2;
+}
+
+h1{
+    font-family: 'sacramento',cursive;
+    margin-top:50px;
+    margin-bottom:0;
+    width:12%;
+    margin: 0 auto 0 auto;
+    font-size: 562.5%;
+    color: #66bfbf;
+} 
+h2{
+    font-family:'Montserrat',san-serif;
+    font-size:2.5rem;
+    color: #66bfbf;
+    font-weight: normal;
+}
+h3{
+    font-family:'Montserrat',san-serif;
+    COLOR:#11999E;
+}
+
+p{
+    margin-bottom: 0;
+}
+.top{
+    position:relative;
+    padding-top: 100px;
+    background-color: #C0EEF2;
+    padding-bottom:0;
+}
+.programmer{
+    font-family: cursive;
+}
+.pro{
+    text-decoration: underline ;
+}
+.profile{
+    border-radius: 90%;
+    height:180px;
+}
+.firstC{
+    position: absolute;
+    right:220px;
+    top:50px;
+}
+.mountian{
+    padding-bottom:0;
+}
+.run{
+    border-radius:50%;
+    height:120px;
+    border: 30px solid #DDF7E3;
+    background-color:#DDF7E3;
+    MARGIN-TOP: 15PX;
+    margin:100px auto ;
+    text-align:left;
+    line-height: 2;
+}
+.skills{
+    text-align:left;
+    line-height: 2;
+    text-align: center;
+    width:50%;
+    margin:100px auto ;
+}
+.secondC{
+    position: absolute;
+    left:200px;
+    top:200px;
+}
+.sports{
+    padding: 0 35px 0;
+    margin-top:0;
+    MARGIN-TOP: 15PX;
+}
+.swapnil{
+    display: inline;
+}
+p{
+    font-family: serif;
+}
+.webD{
+    border-radius:50%;
+    height:120px;
+    border: 30px solid #DDF7E3;
+    background-color:#DDF7E3;
+    MARGIN-TOP: 15PX;
+}
+A{
+     COLOR:#11999E;
+}
